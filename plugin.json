@@ -1,0 +1,5 @@
+{
+  "title": "IndieRSVP",
+  "description": "Adds a Hugo shortcode for sending an IndieWeb RSVP."
+  "version": "1.0"
+}
