@@ -21,3 +21,5 @@ You use your own text instead of the emoji with a `text` parameter:
 ```
 {{< rsvp href="https://events.indieweb.org/2022/03/micro-camp-2022-IW2Qp3ygHike" text="Micro Camp 2022" >}}
 ```
+
+<img src="indiersvp_icon.png" width="0" height="0" style="display: none;" />
