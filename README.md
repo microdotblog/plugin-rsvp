@@ -10,7 +10,13 @@ I'm going to this! {{< rsvp href="https://events.indieweb.org/2022/03/micro-camp
 
 It will create a link to the event with the appropriate Microformats reply markup. Micro.blog will notice the post and send a Webmention for it.
 
-To keep the parameters simple, Micro.blog links the event URL with the emoji 📅. Or you can add a `text` parameter:
+To keep it simple, Micro.blog links the event URL with the calendar emoji, so the above post will look like this:
+
+```
+I'm going to this! 📅
+```
+
+You use your own text instead of the emoji with a `text` parameter:
 
 ```
 {{< rsvp href="https://events.indieweb.org/2022/03/micro-camp-2022-IW2Qp3ygHike" text="Micro Camp 2022" >}}
